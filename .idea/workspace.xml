@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8742fe20-4a37-42a2-a0f7-5fb6280d66c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/users_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/users_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/users_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +50,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y1yNBIcZLwq2mMNDjKlZbMODAd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,6 +166,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -166,24 +186,27 @@
       <workItem from="1583946584280" duration="617000" />
       <workItem from="1584020502576" duration="31000" />
       <workItem from="1602322792001" duration="66000" />
+      <workItem from="1602323844818" duration="436000" />
+      <workItem from="1603191756712" duration="2166000" />
+      <workItem from="1603195578645" duration="7998000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="429" y="202" width="583" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583059707943">
+    <state x="429" y="199" width="567" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603197485442">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="429" y="202" width="583" height="404" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1583059707943" />
-    <state x="401" y="125" width="624" height="558" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583946561081">
+    <state x="429" y="199" width="567" height="403" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1603197485442" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602324280477">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="401" y="125" width="624" height="558" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1583946561081" />
-    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1583054929250">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1602324280477" />
+    <state x="381" y="89" key="search.everywhere.popup" timestamp="1603204851281">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="263" height="500" key="HiddenNamespacesPopup/70.27.1296.741@70.27.1296.741" timestamp="1583054929250" />
+    <state x="381" y="89" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1603204851281" />
   </component>
 </project>
