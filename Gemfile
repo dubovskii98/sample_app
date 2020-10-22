@@ -16,7 +16,7 @@ gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 gem 'carrierwave',             '0.10.0'
-gem 'mini_magick',             '3.8.0'
+gem 'mini_magick',             '4.9.4'
 gem 'fog',                     '1.36.0'
 
 
