@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 gem 'bcrypt',         '3.1.12'
 gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
